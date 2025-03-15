@@ -1,0 +1,32 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.pdb
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe.config
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.pdb
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csprojResolveAssemblyReference.cache
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.MainForm.resources
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csproj.GenerateResource.Cache
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.exe
+F:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.pdb
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csprojResolveAssemblyReference.cache
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.MainForm.resources
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csproj.GenerateResource.Cache
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.exe
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.pdb
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe.config
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe
+D:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.pdb
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe.config
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.exe
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\bin\Debug\CalcApenasCodigo.pdb
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csprojResolveAssemblyReference.cache
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.MainForm.resources
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.csproj.GenerateResource.Cache
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.exe
+E:\Cursos\Desevolvimento de sistemas\PA\CalcApenasCodigo\CalcApenasCodigo\obj\Debug\CalcApenasCodigo.pdb
